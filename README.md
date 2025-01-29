@@ -46,7 +46,7 @@ pip install pandas scikit-learn yellowbrick
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Jhonathan-Ferroni/Naive_Bayes.git
    ```
 
 2. Certifique-se de que o arquivo `insurance.csv` esteja no mesmo diretório do script.
